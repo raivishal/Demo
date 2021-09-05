@@ -18,6 +18,12 @@ public class Demo {
 
 	}
 	
+	public void newlyAddedMethodByGuyX()
+	{
+		System.out.println("newlyAddedMethodByGuyX");
+	}
+	
+	
 	
 	
 
