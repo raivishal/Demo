@@ -24,6 +24,11 @@ public class Demo {
 		System.out.println("this changes has been made by jdbc");
 	}
 	
+	public void methodAddedByGuysX()
+	{
+		
+	}
+	
 	
 	
 	
